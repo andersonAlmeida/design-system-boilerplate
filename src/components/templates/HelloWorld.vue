@@ -103,9 +103,15 @@
 </template>
 
 <script>
+/**
+ * Hello World componente de teste
+ */
 export default {
   name: "HelloWorld",
   props: {
+    /**
+     * Mensagem principal
+     */
     msg: String,
   },
 };

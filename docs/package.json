@@ -1,0 +1,21 @@
+{
+  "name": "vuepress-test",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "authors": {
+    "name": "",
+    "email": ""
+  },
+  "repository": "/vuepress-test",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "glob": "^7.1.6",
+    "vuepress": "^1.5.3",
+    "vuepress-plugin-live": "^1.6.2"
+  }
+}

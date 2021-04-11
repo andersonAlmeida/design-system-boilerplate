@@ -1,0 +1,5 @@
+1. Criar projeto vue cli
+2. Instalar dentro do projeto criado o vuepress
+3. Instalar no projeto criado pelo vue cli o vue-docgen-cli
+4. Criar na raiz do projeto um arquivo docgen.config.js
+5. Adicionar o module Glob e modificar o config.js do vuepress
